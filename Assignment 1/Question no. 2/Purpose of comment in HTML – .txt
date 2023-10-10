@@ -1,0 +1,7 @@
+Purpose of comment in HTML – 
+
+It is used to stop the text or piece of code on rendering on the web page , it require when we want to add some information about our code which we don’t want to render on webpage front-end side . we can also say that it is used to disable a line or block of code without deleting it . 
+
+Example :- This is how our text or block of code is comment in html file
+
+<!-- This is comment text which would not appear in webpage -->

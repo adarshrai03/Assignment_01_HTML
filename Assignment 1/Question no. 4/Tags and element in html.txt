@@ -1,0 +1,6 @@
+1. TAG IN HTML --> In HTML, tags are used to define elements on a webpage. These elements can be anything from headings, paragraphs, links, images, and more. Tags are enclosed in angle brackets (< >). They usually come in pairs - an opening tag and a closing tag.
+Example :- 	<h1>This is a Heading</h1> 
+		(So for create heading  we would used h1 tag) 
+
+2. ELEMENT IN HTML --> An element is a fundamental building block of a web page. It represents a specific structure or component within the document, such as headings, paragraphs, links, images, lists, and more.
+Example :- In above example of tag in html , where h1 is a tag and "This is a heading" is a content and the combination of both of these (tags and content) are called element in html .

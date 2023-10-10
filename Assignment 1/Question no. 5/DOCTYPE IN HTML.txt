@@ -1,0 +1,2 @@
+DOCTYPE IN HTML :- 
+DOCTYPE, is an important declaration in an HTML document that informs the web browser about the version of HTML being used in the document. It is not an HTML tag but rather an instruction to the browser about how to interpret the content of the document.it's considered best practice to include this declaration at the beginning of every HTML document to ensure proper rendering and compatibility across different browsers and devices.
